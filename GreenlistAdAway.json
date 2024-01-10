@@ -1,0 +1,160 @@
+{
+    "sources": [
+        {
+            "label": "AdGuard: CNAME-cloaked Ads",
+            "url": "https:\/\/raw.githubusercontent.com\/r-a-y\/mobile-hosts\/master\/AdguardCNAMEAds.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "AdGuard: CNAME-cloaked Clickthroughs",
+            "url": "https:\/\/raw.githubusercontent.com\/r-a-y\/mobile-hosts\/master\/AdguardCNAMEClickthroughs.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "AdGuard: CNAME-cloaked Microsites",
+            "url": "https:\/\/raw.githubusercontent.com\/r-a-y\/mobile-hosts\/master\/AdguardCNAMEMicrosites.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "AdGuard: CNAME-cloaked Trackers",
+            "url": "https:\/\/raw.githubusercontent.com\/r-a-y\/mobile-hosts\/master\/AdguardCNAME.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "AdGuard: DNS",
+            "url": "https:\/\/raw.githubusercontent.com\/r-a-y\/mobile-hosts\/master\/AdguardDNS.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "AdGuard: Mobile Ads",
+            "url": "https:\/\/raw.githubusercontent.com\/r-a-y\/mobile-hosts\/master\/AdguardMobileAds.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "AdGuard: Mobile Tracking & Spyware",
+            "url": "https:\/\/raw.githubusercontent.com\/r-a-y\/mobile-hosts\/master\/AdguardMobileSpyware.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "AdGuard: Tracking Protection",
+            "url": "https:\/\/raw.githubusercontent.com\/r-a-y\/mobile-hosts\/master\/AdguardTracking.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "EasyPrivacy: 3rd Party",
+            "url": "https:\/\/raw.githubusercontent.com\/r-a-y\/mobile-hosts\/master\/EasyPrivacy3rdParty.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "EasyPrivacy: CNAME-cloaked Trackers",
+            "url": "https:\/\/raw.githubusercontent.com\/r-a-y\/mobile-hosts\/master\/EasyPrivacyCNAME.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "EasyPrivacy: Specific",
+            "url": "https:\/\/raw.githubusercontent.com\/r-a-y\/mobile-hosts\/master\/EasyPrivacySpecific.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "Geoffrey Frogeye's Hosts: 1st Party",
+            "url": "https:\/\/hostfiles.frogeye.fr\/firstparty-trackers-hosts.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "Geoffrey Frogeye's Hosts: Multi-Party",
+            "url": "https:\/\/hostfiles.frogeye.fr\/multiparty-trackers-hosts.txt",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "MrGrappleMan's Greenlist(False Positives)",
+            "url": "https:\/\/raw.githubusercontent.com\/MrGrappleMan\/adblockhosts-greenlist\/main\/FalsePosHosts",
+            "enabled": true,
+            "allow": true,
+            "redirect": false
+        },
+        {
+            "label": "StevenBlack's Unified Hosts: Anti 18+ sites",
+            "url": "https:\/\/raw.githubusercontent.com\/StevenBlack\/hosts\/master\/alternates\/porn-only\/hosts",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "StevenBlack's Unified Hosts: Anti Gambling",
+            "url": "https:\/\/raw.githubusercontent.com\/StevenBlack\/hosts\/master\/alternates\/gambling-only\/hosts",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "StevenBlack's Unified Hosts: Anti Social Media",
+            "url": "https:\/\/raw.githubusercontent.com\/StevenBlack\/hosts\/master\/alternates\/social-only\/hosts",
+            "enabled": false,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "StevenBlack's Unified Hosts: Main",
+            "url": "https:\/\/raw.githubusercontent.com\/StevenBlack\/hosts\/master\/hosts",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "Ultimate Hosts Blacklist",
+            "url": "https:\/\/hosts.ubuntu101.co.za\/hosts",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        },
+        {
+            "label": "ZeroDot1's Coin Blocker Hosts",
+            "url": "https:\/\/zerodot1.gitlab.io\/CoinBlockerLists\/hosts_browser",
+            "enabled": true,
+            "allow": false,
+            "redirect": false
+        }
+    ],
+    "blocked": [],
+    "allowed": [],
+    "redirected": []
+}m",
+            "enabled": true
+        },
+        {
+            "host": "clients3.google.com",
+            "enabled": true
+        },
+        {
+            "host": "newgrounds.com",
+            "enabled": true
+        }
+    ],
+    "redirected": []
+}
