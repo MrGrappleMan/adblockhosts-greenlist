@@ -144,17 +144,4 @@
     "blocked": [],
     "allowed": [],
     "redirected": []
-}m",
-            "enabled": true
-        },
-        {
-            "host": "clients3.google.com",
-            "enabled": true
-        },
-        {
-            "host": "newgrounds.com",
-            "enabled": true
-        }
-    ],
-    "redirected": []
 }
